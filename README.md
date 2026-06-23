@@ -7,7 +7,7 @@ Final-year B.Tech student @ KTU | Exploring Cybersecurity & AI-driven content cr
 ---
 
 ### 🎓 About Me
-- 🎓 Final-year B.Tech student at KTU, Kerala
+- 🎓 Final-year B.Tech cse student at KMCT IETM , kozhikode , Kerala
 - 🔐 Currently exploring **ethical hacking & cybersecurity** (Kali Linux, threat modeling, GRC frameworks)
 - 🎬 Building **Kalayantra** — an AI-generated music channel with a VHS/synthwave aesthetic
 - 🌱 Always learning — currently working through certifications on Kaggle Learn, Google Cloud Skills Boost, and NVIDIA DLI
