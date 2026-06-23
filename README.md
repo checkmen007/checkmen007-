@@ -32,9 +32,9 @@ Final-year B.Tech student @ KTU | Exploring Cybersecurity & AI-driven content cr
 
 ### 📫 Connect with me
 <p align="left">
-<!-- www.linkedin.com/in/
+<  !--www.linkedin.com/in/
 prajual-k-257a07295
-Add your LinkedIn / other links here, e.g.: -->
+ -->
 <!-- <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
 </p>
 
